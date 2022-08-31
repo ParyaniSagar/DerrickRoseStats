@@ -9,4 +9,4 @@
 
 
 NBA FORMAT
-![NBA_FORMAT]('../3_Material/NBA_Flowchart.png')
+![NBA_FORMAT]("./3_Material/NBA_Flowchart.png")
