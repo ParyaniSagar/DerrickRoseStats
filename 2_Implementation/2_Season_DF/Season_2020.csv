@@ -1,70 +1,67 @@
-,Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
-0,1,1,2019-10-23,31-019,DET,@,IND,W (+9),0,26:35,6,11,.545,0,0,,6,7,.857,1,2,3,9,0,0,4,1,18,15.5,+5
-1,2,2,2019-10-24,31-020,DET,,ATL,L (-17),0,25:16,11,16,.688,0,1,.000,5,5,1.000,0,1,1,3,0,0,3,1,27,19.2,-8
-2,3,3,2019-10-26,31-022,DET,,PHI,L (-6),0,26:44,14,21,.667,1,1,1.000,2,2,1.000,0,3,3,3,3,2,6,2,31,22.5,-3
-3,4,4,2019-10-28,31-024,DET,,IND,W (+2),0,26:04,4,16,.250,0,0,,2,2,1.000,1,0,1,6,0,0,4,2,10,0.5,-1
-4,5,5,2019-10-30,31-026,DET,@,TOR,L (-12),0,20:32,7,12,.583,0,2,.000,2,2,1.000,0,0,0,10,0,0,2,0,16,15.4,+1
-5,6,6,2019-11-01,31-028,DET,@,CHI,L (-6),0,24:40,8,13,.615,0,0,,7,9,.778,0,1,1,7,3,1,4,2,23,20.4,+6
-6,7,,2019-11-02,31-029,DET,,BRK,W (+4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
-7,8,,2019-11-04,31-031,DET,@,WAS,L (-16),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
-8,9,,2019-11-06,31-033,DET,,NYK,W (+20),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
-9,10,,2019-11-08,31-035,DET,@,IND,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
-10,11,7,2019-11-11,31-038,DET,,MIN,L (-6),1,19:54,3,13,.231,0,2,.000,0,0,,1,2,3,5,2,1,0,0,6,5.6,+1
-11,12,,2019-11-12,31-039,DET,@,MIA,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
-12,13,8,2019-11-15,31-042,DET,@,CHO,L (-3),0,26:02,6,7,.857,2,2,1.000,2,2,1.000,0,2,2,3,0,0,6,2,16,9.4,-3
-13,14,9,2019-11-20,31-047,DET,@,CHI,L (-20),0,24:26,5,11,.455,0,2,.000,8,9,.889,1,2,3,2,1,0,3,2,18,11.8,+5
-14,15,10,2019-11-22,31-049,DET,,ATL,W (+25),0,17:38,4,6,.667,3,4,.750,0,0,,0,1,1,2,1,1,1,0,11,10.8,+22
-15,16,11,2019-11-23,31-050,DET,@,MIL,L (-14),0,26:11,8,17,.471,2,5,.400,2,2,1.000,0,3,3,6,1,0,3,1,20,14.0,+5
-16,17,12,2019-11-25,31-052,DET,,ORL,W (+15),0,20:00,1,11,.091,0,4,.000,0,0,,1,1,2,6,0,1,1,3,2,-1.6,+6
-17,18,13,2019-11-27,31-054,DET,@,CHO,L (-1),0,25:15,6,15,.400,1,4,.250,0,0,,1,0,1,8,0,0,1,1,13,9.8,+4
-18,19,14,2019-11-29,31-056,DET,,CHO,L (-3),0,21:52,8,12,.667,3,4,.750,4,6,.667,0,2,2,4,0,0,1,1,23,19.0,-3
-19,20,15,2019-12-01,31-058,DET,,SAS,W (+34),0,18:53,3,8,.375,1,3,.333,3,3,1.000,0,0,0,10,2,1,3,0,10,12.3,+16
-20,Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
-21,21,16,2019-12-03,31-060,DET,@,CLE,W (+33),0,21:45,6,12,.500,0,2,.000,0,1,.000,0,2,2,9,0,0,0,2,12,11.7,+23
-22,22,17,2019-12-04,31-061,DET,,MIL,L (-24),0,25:19,6,15,.400,0,3,.000,2,2,1.000,0,2,2,5,1,0,1,0,14,10.0,-8
-23,23,18,2019-12-06,31-063,DET,,IND,W (+7),0,25:43,7,17,.412,0,1,.000,0,0,,2,4,6,5,1,0,2,0,14,10.0,-3
-24,24,19,2019-12-09,31-066,DET,@,NOP,W (+2),0,28:22,9,17,.529,1,3,.333,2,2,1.000,1,1,2,7,0,0,2,1,21,16.2,+2
-25,25,20,2019-12-12,31-069,DET,,DAL,L (-11),0,25:46,7,16,.438,5,10,.500,0,0,,0,0,0,4,2,0,3,0,19,12.4,-17
-26,26,21,2019-12-14,31-071,DET,@,HOU,W (+8),0,26:57,10,21,.476,0,4,.000,0,0,,2,2,4,12,0,0,2,2,20,16.9,-6
-27,27,22,2019-12-16,31-073,DET,,WAS,L (-14),0,28:33,8,17,.471,2,5,.400,4,4,1.000,2,4,6,8,1,0,3,1,22,19.1,-13
-28,28,23,2019-12-18,31-075,DET,,TOR,L (-13),0,28:22,8,17,.471,0,4,.000,0,1,.000,0,4,4,5,0,1,1,0,16,11.3,-9
-29,29,24,2019-12-20,31-077,DET,@,BOS,L (-21),0,23:34,6,12,.500,0,1,.000,2,2,1.000,0,0,0,4,0,0,3,0,14,7.8,-26
-30,30,,2019-12-21,31-078,DET,,CHI,L (-12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
-31,31,25,2019-12-23,31-080,DET,,PHI,L (-16),0,25:17,7,14,.500,0,4,.000,2,2,1.000,0,3,3,7,2,1,2,0,16,15.5,-3
-32,32,26,2019-12-26,31-083,DET,,WAS,W (+30),0,21:05,6,11,.545,3,6,.500,0,0,,2,0,2,6,1,0,2,1,15,13.9,+9
-33,33,27,2019-12-28,31-085,DET,@,SAS,L (-27),0,27:19,10,17,.588,2,4,.500,2,2,1.000,0,3,3,4,4,0,4,0,24,19.8,-11
-34,34,28,2019-12-30,31-087,DET,@,UTA,L (-23),0,26:16,8,17,.471,1,2,.500,3,6,.500,0,0,0,4,1,1,2,1,20,12.2,+1
-35,35,29,2020-01-02,31-090,DET,@,LAC,L (-14),0,27:00,5,15,.333,0,2,.000,4,4,1.000,0,2,2,6,0,0,1,1,14,8.9,-6
-36,36,30,2020-01-04,31-092,DET,@,GSW,W (+7),0,28:13,10,16,.625,1,4,.250,1,1,1.000,0,2,2,2,1,0,4,1,22,13.4,+4
-37,37,31,2020-01-05,31-093,DET,@,LAL,L (-7),0,28:53,8,19,.421,2,3,.667,10,10,1.000,1,2,3,5,1,1,2,3,28,21.2,-3
-38,38,32,2020-01-07,31-095,DET,@,CLE,W (+2),0,30:32,9,21,.429,2,5,.400,4,4,1.000,0,3,3,7,1,0,4,2,24,14.9,+5
-39,39,33,2020-01-09,31-097,DET,,CLE,L (-3),0,35:42,13,24,.542,0,2,.000,1,1,1.000,4,3,7,5,0,0,6,3,27,15.4,+1
-40,40,34,2020-01-11,31-099,DET,,CHI,L (-9),0,29:00,7,11,.636,2,3,.667,4,4,1.000,0,2,2,7,0,0,4,1,20,16.2,-1
-41,Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
-42,41,35,2020-01-13,31-101,DET,,NOP,L (-7),0,36:31,10,23,.435,0,3,.000,3,4,.750,0,4,4,8,0,1,3,1,23,14.6,+2
-43,42,36,2020-01-15,31-103,DET,@,BOS,W (+13),1,28:44,11,13,.846,0,2,.000,0,0,,0,2,2,6,0,1,3,0,22,19.8,+12
-44,43,37,2020-01-18,31-106,DET,@,ATL,W (+33),1,26:19,12,17,.706,1,3,.333,2,2,1.000,0,2,2,9,1,0,1,1,27,26.4,+24
-45,44,38,2020-01-20,31-108,DET,@,WAS,L (-6),1,34:17,8,21,.381,1,5,.200,4,6,.667,0,4,4,2,2,0,2,1,21,10.9,-6
-46,45,39,2020-01-22,31-110,DET,,SAC,W (+21),1,30:07,8,17,.471,0,1,.000,6,7,.857,0,6,6,11,0,0,1,4,22,19.8,0
-47,46,40,2020-01-24,31-112,DET,,MEM,L (-13),1,33:10,10,21,.476,0,2,.000,2,3,.667,2,1,3,8,1,0,3,1,22,15.8,-18
-48,47,41,2020-01-25,31-113,DET,,BRK,L (-10),1,36:59,10,22,.455,2,4,.500,5,5,1.000,1,3,4,6,2,0,1,1,27,22.0,-10
-49,48,,2020-01-27,31-115,DET,,CLE,L (-15),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
-50,49,42,2020-01-29,31-117,DET,@,BRK,L (-10),1,30:47,9,15,.600,1,2,.500,3,3,1.000,0,6,6,5,0,0,2,0,22,18.4,-10
-51,50,43,2020-01-31,31-119,DET,,TOR,L (-13),1,29:50,9,16,.563,2,5,.400,1,1,1.000,0,0,0,3,0,0,1,0,21,14.5,-12
-52,51,44,2020-02-02,31-121,DET,,DEN,W (+5),1,12:52,1,3,.333,0,1,.000,0,2,.000,1,0,1,2,0,0,1,0,2,0.6,-4
-53,52,,2020-02-03,31-122,DET,@,MEM,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
-54,53,,2020-02-05,31-124,DET,,PHO,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
-55,54,,2020-02-07,31-126,DET,@,OKC,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
-56,55,,2020-02-08,31-127,DET,,NYK,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
-57,56,,2020-02-10,31-129,DET,,CHO,L (-11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
-58,57,45,2020-02-12,31-131,DET,@,ORL,L (-4),0,17:02,1,13,.077,0,4,.000,0,0,,0,0,0,4,1,1,3,0,2,-5.2,-16
-59,58,46,2020-02-20,31-139,DET,,MIL,L (-20),1,23:07,6,15,.400,0,3,.000,0,0,,0,0,0,4,0,1,2,0,12,5.4,-12
-60,59,47,2020-02-23,31-142,DET,@,POR,L (-3),1,27:40,6,16,.375,1,4,.250,2,2,1.000,0,2,2,3,0,0,5,0,15,3.9,-19
-61,60,48,2020-02-25,31-144,DET,@,DEN,L (-17),1,27:01,6,14,.429,1,3,.333,7,7,1.000,1,1,2,5,2,0,4,2,20,14.3,-12
-62,Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
-63,61,49,2020-02-28,31-147,DET,@,PHO,W (+2),1,30:08,15,24,.625,1,2,.500,0,0,,2,1,3,4,2,1,3,0,31,24.4,-6
-64,62,50,2020-03-01,31-149,DET,@,SAC,L (-6),1,9:23,3,5,.600,1,1,1.000,2,2,1.000,0,3,3,2,0,0,1,1,9,7.6,+11
-65,63,,2020-03-04,31-152,DET,,OKC,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
-66,64,,2020-03-07,31-155,DET,,UTA,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
-67,65,,2020-03-08,31-156,DET,@,NYK,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
-68,66,,2020-03-11,31-159,DET,@,PHI,L (-18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+,Date,Tm,Opp,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,Match Result,Points
+0,2019-10-23,DET,IND,0,26:35,6,11,.545,0,0,,6,7,.857,1,2,3,9,0,0,4,1,18,15.5,+5,W ,+9
+1,2019-10-24,DET,ATL,0,25:16,11,16,.688,0,1,.000,5,5,1.000,0,1,1,3,0,0,3,1,27,19.2,-8,L ,-17
+2,2019-10-26,DET,PHI,0,26:44,14,21,.667,1,1,1.000,2,2,1.000,0,3,3,3,3,2,6,2,31,22.5,-3,L ,-6
+3,2019-10-28,DET,IND,0,26:04,4,16,.250,0,0,,2,2,1.000,1,0,1,6,0,0,4,2,10,0.5,-1,W ,+2
+4,2019-10-30,DET,TOR,0,20:32,7,12,.583,0,2,.000,2,2,1.000,0,0,0,10,0,0,2,0,16,15.4,+1,L ,-12
+5,2019-11-01,DET,CHI,0,24:40,8,13,.615,0,0,,7,9,.778,0,1,1,7,3,1,4,2,23,20.4,+6,L ,-6
+6,2019-11-02,DET,BRK,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,W ,+4
+7,2019-11-04,DET,WAS,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-16
+8,2019-11-06,DET,NYK,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,W ,+20
+9,2019-11-08,DET,IND,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,L ,-6
+10,2019-11-11,DET,MIN,1,19:54,3,13,.231,0,2,.000,0,0,,1,2,3,5,2,1,0,0,6,5.6,+1,L ,-6
+11,2019-11-12,DET,MIA,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,L ,-9
+12,2019-11-15,DET,CHO,0,26:02,6,7,.857,2,2,1.000,2,2,1.000,0,2,2,3,0,0,6,2,16,9.4,-3,L ,-3
+13,2019-11-20,DET,CHI,0,24:26,5,11,.455,0,2,.000,8,9,.889,1,2,3,2,1,0,3,2,18,11.8,+5,L ,-20
+14,2019-11-22,DET,ATL,0,17:38,4,6,.667,3,4,.750,0,0,,0,1,1,2,1,1,1,0,11,10.8,+22,W ,+25
+15,2019-11-23,DET,MIL,0,26:11,8,17,.471,2,5,.400,2,2,1.000,0,3,3,6,1,0,3,1,20,14.0,+5,L ,-14
+16,2019-11-25,DET,ORL,0,20:00,1,11,.091,0,4,.000,0,0,,1,1,2,6,0,1,1,3,2,-1.6,+6,W ,+15
+17,2019-11-27,DET,CHO,0,25:15,6,15,.400,1,4,.250,0,0,,1,0,1,8,0,0,1,1,13,9.8,+4,L ,-1
+18,2019-11-29,DET,CHO,0,21:52,8,12,.667,3,4,.750,4,6,.667,0,2,2,4,0,0,1,1,23,19.0,-3,L ,-3
+19,2019-12-01,DET,SAS,0,18:53,3,8,.375,1,3,.333,3,3,1.000,0,0,0,10,2,1,3,0,10,12.3,+16,W ,+34
+21,2019-12-03,DET,CLE,0,21:45,6,12,.500,0,2,.000,0,1,.000,0,2,2,9,0,0,0,2,12,11.7,+23,W ,+33
+22,2019-12-04,DET,MIL,0,25:19,6,15,.400,0,3,.000,2,2,1.000,0,2,2,5,1,0,1,0,14,10.0,-8,L ,-24
+23,2019-12-06,DET,IND,0,25:43,7,17,.412,0,1,.000,0,0,,2,4,6,5,1,0,2,0,14,10.0,-3,W ,+7
+24,2019-12-09,DET,NOP,0,28:22,9,17,.529,1,3,.333,2,2,1.000,1,1,2,7,0,0,2,1,21,16.2,+2,W ,+2
+25,2019-12-12,DET,DAL,0,25:46,7,16,.438,5,10,.500,0,0,,0,0,0,4,2,0,3,0,19,12.4,-17,L ,-11
+26,2019-12-14,DET,HOU,0,26:57,10,21,.476,0,4,.000,0,0,,2,2,4,12,0,0,2,2,20,16.9,-6,W ,+8
+27,2019-12-16,DET,WAS,0,28:33,8,17,.471,2,5,.400,4,4,1.000,2,4,6,8,1,0,3,1,22,19.1,-13,L ,-14
+28,2019-12-18,DET,TOR,0,28:22,8,17,.471,0,4,.000,0,1,.000,0,4,4,5,0,1,1,0,16,11.3,-9,L ,-13
+29,2019-12-20,DET,BOS,0,23:34,6,12,.500,0,1,.000,2,2,1.000,0,0,0,4,0,0,3,0,14,7.8,-26,L ,-21
+30,2019-12-21,DET,CHI,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,L ,-12
+31,2019-12-23,DET,PHI,0,25:17,7,14,.500,0,4,.000,2,2,1.000,0,3,3,7,2,1,2,0,16,15.5,-3,L ,-16
+32,2019-12-26,DET,WAS,0,21:05,6,11,.545,3,6,.500,0,0,,2,0,2,6,1,0,2,1,15,13.9,+9,W ,+30
+33,2019-12-28,DET,SAS,0,27:19,10,17,.588,2,4,.500,2,2,1.000,0,3,3,4,4,0,4,0,24,19.8,-11,L ,-27
+34,2019-12-30,DET,UTA,0,26:16,8,17,.471,1,2,.500,3,6,.500,0,0,0,4,1,1,2,1,20,12.2,+1,L ,-23
+35,2020-01-02,DET,LAC,0,27:00,5,15,.333,0,2,.000,4,4,1.000,0,2,2,6,0,0,1,1,14,8.9,-6,L ,-14
+36,2020-01-04,DET,GSW,0,28:13,10,16,.625,1,4,.250,1,1,1.000,0,2,2,2,1,0,4,1,22,13.4,+4,W ,+7
+37,2020-01-05,DET,LAL,0,28:53,8,19,.421,2,3,.667,10,10,1.000,1,2,3,5,1,1,2,3,28,21.2,-3,L ,-7
+38,2020-01-07,DET,CLE,0,30:32,9,21,.429,2,5,.400,4,4,1.000,0,3,3,7,1,0,4,2,24,14.9,+5,W ,+2
+39,2020-01-09,DET,CLE,0,35:42,13,24,.542,0,2,.000,1,1,1.000,4,3,7,5,0,0,6,3,27,15.4,+1,L ,-3
+40,2020-01-11,DET,CHI,0,29:00,7,11,.636,2,3,.667,4,4,1.000,0,2,2,7,0,0,4,1,20,16.2,-1,L ,-9
+42,2020-01-13,DET,NOP,0,36:31,10,23,.435,0,3,.000,3,4,.750,0,4,4,8,0,1,3,1,23,14.6,+2,L ,-7
+43,2020-01-15,DET,BOS,1,28:44,11,13,.846,0,2,.000,0,0,,0,2,2,6,0,1,3,0,22,19.8,+12,W ,+13
+44,2020-01-18,DET,ATL,1,26:19,12,17,.706,1,3,.333,2,2,1.000,0,2,2,9,1,0,1,1,27,26.4,+24,W ,+33
+45,2020-01-20,DET,WAS,1,34:17,8,21,.381,1,5,.200,4,6,.667,0,4,4,2,2,0,2,1,21,10.9,-6,L ,-6
+46,2020-01-22,DET,SAC,1,30:07,8,17,.471,0,1,.000,6,7,.857,0,6,6,11,0,0,1,4,22,19.8,0,W ,+21
+47,2020-01-24,DET,MEM,1,33:10,10,21,.476,0,2,.000,2,3,.667,2,1,3,8,1,0,3,1,22,15.8,-18,L ,-13
+48,2020-01-25,DET,BRK,1,36:59,10,22,.455,2,4,.500,5,5,1.000,1,3,4,6,2,0,1,1,27,22.0,-10,L ,-10
+49,2020-01-27,DET,CLE,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,L ,-15
+50,2020-01-29,DET,BRK,1,30:47,9,15,.600,1,2,.500,3,3,1.000,0,6,6,5,0,0,2,0,22,18.4,-10,L ,-10
+51,2020-01-31,DET,TOR,1,29:50,9,16,.563,2,5,.400,1,1,1.000,0,0,0,3,0,0,1,0,21,14.5,-12,L ,-13
+52,2020-02-02,DET,DEN,1,12:52,1,3,.333,0,1,.000,0,2,.000,1,0,1,2,0,0,1,0,2,0.6,-4,W ,+5
+53,2020-02-03,DET,MEM,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-14
+54,2020-02-05,DET,PHO,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,W ,+8
+55,2020-02-07,DET,OKC,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-7
+56,2020-02-08,DET,NYK,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,L ,-3
+57,2020-02-10,DET,CHO,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,L ,-11
+58,2020-02-12,DET,ORL,0,17:02,1,13,.077,0,4,.000,0,0,,0,0,0,4,1,1,3,0,2,-5.2,-16,L ,-4
+59,2020-02-20,DET,MIL,1,23:07,6,15,.400,0,3,.000,0,0,,0,0,0,4,0,1,2,0,12,5.4,-12,L ,-20
+60,2020-02-23,DET,POR,1,27:40,6,16,.375,1,4,.250,2,2,1.000,0,2,2,3,0,0,5,0,15,3.9,-19,L ,-3
+61,2020-02-25,DET,DEN,1,27:01,6,14,.429,1,3,.333,7,7,1.000,1,1,2,5,2,0,4,2,20,14.3,-12,L ,-17
+63,2020-02-28,DET,PHO,1,30:08,15,24,.625,1,2,.500,0,0,,2,1,3,4,2,1,3,0,31,24.4,-6,W ,+2
+64,2020-03-01,DET,SAC,1,9:23,3,5,.600,1,1,1.000,2,2,1.000,0,3,3,2,0,0,1,1,9,7.6,+11,L ,-6
+65,2020-03-04,DET,OKC,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-7
+66,2020-03-07,DET,UTA,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-6
+67,2020-03-08,DET,NYK,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-12
+68,2020-03-11,DET,PHI,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-18
