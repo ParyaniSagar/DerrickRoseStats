@@ -1,0 +1,67 @@
+,Date,Tm,Opp,GS,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,Game Played,Match Result,Points,Minutes Played,Seconds Played
+0,2011-12-25,CHI,LAL,1,9,13,.692,4,6,.667,0,0,,0,1,1,5,0,1,5,1,22,15.6,+7,Yes,W ,+1,35,19
+1,2011-12-26,CHI,GSW,1,4,17,.235,1,8,.125,4,4,1.000,1,4,5,8,0,0,3,3,13,6.0,+1,Yes,L ,-8,39,04
+2,2011-12-29,CHI,SAC,1,7,14,.500,0,2,.000,5,6,.833,0,1,1,8,0,0,6,5,19,9.5,-1,Yes,W ,+10,32,12
+3,2011-12-30,CHI,LAC,1,8,14,.571,3,4,.750,10,11,.909,3,5,8,16,1,0,4,3,29,32.6,+16,Yes,W ,+13,42,04
+4,2012-01-01,CHI,MEM,1,4,10,.400,0,1,.000,8,8,1.000,0,3,3,6,2,2,2,1,16,16.7,+43,Yes,W ,+40,25,34
+5,2012-01-03,CHI,ATL,1,8,22,.364,3,8,.375,11,13,.846,0,1,1,7,0,1,2,1,30,20.5,+2,Yes,W ,+2,43,59
+6,2012-01-04,CHI,DET,1,7,15,.467,0,6,.000,3,4,.750,0,2,2,10,2,0,2,1,17,16.1,+14,Yes,W ,+16,39,42
+7,2012-01-06,CHI,ORL,1,7,18,.389,1,3,.333,6,7,.857,1,7,8,10,2,1,4,1,21,18.9,+14,Yes,W ,+14,39,22
+8,2012-01-07,CHI,ATL,1,3,10,.300,0,3,.000,2,2,1.000,1,3,4,6,1,0,5,0,8,4.0,-33,Yes,L ,-15,28,14
+9,2012-01-09,CHI,DET,1,8,16,.500,1,6,.167,5,5,1.000,0,1,1,8,0,0,3,0,22,16.9,+12,Yes,W ,+24,32,42
+10,2012-01-10,CHI,MIN,1,12,22,.545,4,8,.500,3,4,.750,0,3,3,11,1,2,3,1,31,27.6,+6,Yes,W ,+11,41,48
+11,2012-01-11,CHI,WAS,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+14,00,00
+12,2012-01-13,CHI,BOS,1,9,21,.429,2,6,.333,5,7,.714,1,3,4,7,0,0,3,3,25,15.4,+16,Yes,W ,+9,39,19
+13,2012-01-14,CHI,TOR,1,7,20,.350,2,6,.333,2,2,1.000,2,2,4,11,3,0,0,0,18,19.5,+18,Yes,W ,+13,41,28
+14,2012-01-16,CHI,MEM,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,L ,-16,00,00
+15,2012-01-17,CHI,PHO,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,No,W ,+21,00,00
+16,2012-01-20,CHI,CLE,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,No,W ,+39,00,00
+17,2012-01-21,CHI,CHA,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+6,00,00
+18,2012-01-23,CHI,NJN,1,9,16,.563,2,5,.400,2,2,1.000,0,5,5,8,1,0,3,3,22,18.3,+8,Yes,W ,+15,36,19
+19,2012-01-25,CHI,IND,1,9,19,.474,1,4,.250,5,5,1.000,1,2,3,3,1,2,2,1,24,17.7,-5,Yes,L ,-5,38,00
+21,2012-01-27,CHI,MIL,1,14,24,.583,0,2,.000,6,10,.600,1,2,3,3,0,1,3,2,34,21.5,+8,Yes,W ,+7,37,17
+22,2012-01-29,CHI,MIA,1,11,28,.393,0,4,.000,12,14,.857,1,5,6,6,1,1,2,3,34,22.9,+4,Yes,L ,-4,44,33
+23,2012-01-30,CHI,WAS,1,10,20,.500,1,2,.500,14,15,.933,0,0,0,8,2,3,5,1,35,28.9,+13,Yes,W ,+10,40,53
+24,2012-02-01,CHI,PHI,1,8,17,.471,1,2,.500,1,3,.333,1,0,1,6,1,0,4,0,18,10.4,-17,Yes,L ,-16,31,04
+25,2012-02-02,CHI,NYK,1,12,26,.462,2,5,.400,6,9,.667,0,4,4,13,1,0,2,0,32,26.7,+1,Yes,W ,+3,39,57
+26,2012-02-04,CHI,MIL,1,11,24,.458,3,7,.429,1,1,1.000,2,5,7,13,0,1,0,0,26,26.3,+18,Yes,W ,+23,35,03
+27,2012-02-06,CHI,NJN,1,2,3,.667,0,1,.000,0,0,,0,0,0,0,0,0,2,2,4,-0.1,+10,Yes,W ,+21,10,40
+28,2012-02-08,CHI,NOH,1,3,5,.600,0,1,.000,0,0,,0,5,5,6,1,0,1,1,6,9.0,+28,Yes,W ,+23,22,22
+29,2012-02-10,CHI,CHA,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+31,00,00
+30,2012-02-12,CHI,BOS,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,L ,-4,00,00
+31,2012-02-14,CHI,SAC,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+6,00,00
+32,2012-02-16,CHI,BOS,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+9,00,00
+33,2012-02-18,CHI,NJN,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,L ,-12,00,00
+34,2012-02-20,CHI,ATL,1,8,18,.444,2,4,.500,5,9,.556,1,4,5,6,0,0,4,0,23,14.1,+19,Yes,W ,+11,34,54
+35,2012-02-22,CHI,MIL,1,6,13,.462,1,2,.500,3,4,.750,1,1,2,7,0,2,3,1,16,12.8,+15,Yes,W ,+19,30,15
+36,2012-02-28,CHI,NOH,1,11,24,.458,1,5,.200,9,11,.818,1,1,2,9,3,2,2,2,32,27.7,+16,Yes,W ,+4,40,49
+37,2012-02-29,CHI,SAS,1,10,23,.435,1,5,.200,8,8,1.000,0,1,1,4,0,1,2,2,29,17.9,+1,Yes,W ,+7,35,19
+38,2012-03-02,CHI,CLE,1,9,17,.529,1,5,.200,0,2,.000,0,1,1,9,3,0,2,1,19,17.1,+18,Yes,W ,+21,28,19
+39,2012-03-04,CHI,PHI,1,12,23,.522,4,7,.571,7,9,.778,0,4,4,8,1,1,3,3,35,27.2,+11,Yes,W ,+5,41,53
+40,2012-03-05,CHI,IND,1,5,16,.313,3,6,.500,0,2,.000,1,3,4,9,0,1,2,2,13,8.8,+14,Yes,W ,+20,28,53
+42,2012-03-07,CHI,MIL,1,8,22,.364,0,5,.000,14,14,1.000,1,7,8,11,1,1,4,0,30,26.0,0,Yes,W ,+2,39,17
+43,2012-03-08,CHI,ORL,1,6,22,.273,2,6,.333,3,4,.750,2,2,4,9,1,1,1,1,17,12.2,-11,Yes,L ,-5,36,27
+44,2012-03-10,CHI,UTA,1,7,13,.538,0,2,.000,10,11,.909,0,2,2,13,1,1,6,0,24,22.7,+10,Yes,W ,+14,35,24
+45,2012-03-12,CHI,NYK,1,12,29,.414,2,6,.333,6,9,.667,2,4,6,7,0,0,4,1,32,18.4,+6,Yes,W ,+5,42,43
+46,2012-03-14,CHI,MIA,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,No,W ,+4,00,00
+47,2012-03-16,CHI,POR,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,L ,-11,00,00
+48,2012-03-17,CHI,PHI,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+9,00,00
+49,2012-03-19,CHI,ORL,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+26,00,00
+50,2012-03-21,CHI,TOR,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+12,00,00
+51,2012-03-24,CHI,TOR,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+1,00,00
+52,2012-03-26,CHI,DEN,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,L ,-17,00,00
+53,2012-03-28,CHI,ATL,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+21,00,00
+54,2012-03-30,CHI,DET,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+12,00,00
+55,2012-04-01,CHI,OKC,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,L ,-14,00,00
+56,2012-04-02,CHI,HOU,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,L ,-6,00,00
+57,2012-04-05,CHI,BOS,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,No,W ,+7,00,00
+58,2012-04-08,CHI,NYK,1,8,26,.308,4,8,.500,9,12,.750,0,6,6,4,1,1,8,1,29,10.7,-5,Yes,L ,-1,38,37
+59,2012-04-10,CHI,NYK,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,No,W ,+12,00,00
+60,2012-04-12,CHI,MIA,1,1,13,.077,0,3,.000,0,0,,1,2,3,8,1,0,3,0,2,-1.8,-27,Yes,W ,+10,25,28
+61,2012-04-15,CHI,DET,1,9,22,.409,1,4,.250,5,8,.625,1,3,4,9,2,2,7,4,24,13.7,+25,Yes,W ,+6,41,07
+63,2012-04-16,CHI,WAS,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,No,L ,-3,00,00
+64,2012-04-18,CHI,CHA,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,No,W ,+32,00,00
+65,2012-04-19,CHI,MIA,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,No,L ,-11,00,00
+66,2012-04-21,CHI,DAL,1,5,9,.556,1,3,.333,0,0,,0,0,0,8,0,0,1,0,11,11.3,+7,Yes,W ,+10,31,40
+67,2012-04-25,CHI,IND,1,3,11,.273,0,2,.000,4,4,1.000,0,0,0,7,1,0,1,1,10,8.0,+8,Yes,W ,+5,26,30
+68,2012-04-26,CHI,CLE,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,No,W ,+32,00,00

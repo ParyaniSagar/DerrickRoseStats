@@ -1,83 +1,87 @@
-,Date,Tm,Opp,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,Match Result,Points
-0,2015-10-27,CHI,CLE,1,32:28,8,22,.364,0,2,.000,2,4,.500,0,1,1,5,1,0,2,0,18,7.8,-1,W ,+2
-1,2015-10-28,CHI,BRK,1,29:26,5,11,.455,0,1,.000,5,5,1.000,0,2,2,3,1,0,2,2,15,10.2,+18,W ,+15
-2,2015-10-30,CHI,DET,1,34:29,4,13,.308,0,1,.000,0,0,,0,2,2,6,0,0,5,3,8,-0.9,-14,L ,-4
-3,2015-11-01,CHI,ORL,1,32:19,2,8,.250,0,1,.000,2,2,1.000,0,7,7,8,0,0,3,1,6,5.5,+6,W ,+5
-4,2015-11-03,CHI,CHO,1,23:52,2,8,.250,0,3,.000,0,0,,0,2,2,5,0,0,2,0,4,1.3,-16,L ,-25
-5,2015-11-05,CHI,OKC,1,37:29,12,25,.480,0,1,.000,5,6,.833,1,4,5,6,0,0,2,1,29,19.6,+4,W ,+6
-6,2015-11-07,CHI,MIN,1,38:07,3,13,.231,1,4,.250,4,5,.800,0,3,3,5,1,0,5,1,11,2.7,-21,L ,-9
-7,2015-11-09,CHI,PHI,1,27:33,6,14,.429,0,3,.000,0,1,.000,2,3,5,8,0,1,2,0,12,10.8,+14,W ,+23
-8,2015-11-13,CHI,CHO,1,34:39,4,14,.286,0,2,.000,2,2,1.000,0,1,1,8,1,1,3,2,10,5.6,-2,W ,+5
-9,2015-11-16,CHI,IND,1,33:13,9,18,.500,2,2,1.000,3,4,.750,1,1,2,6,2,1,0,3,23,20.3,+5,W ,+1
-10,2015-11-18,CHI,PHO,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,W ,+6
-11,2015-11-20,CHI,GSW,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-12
-12,2015-11-24,CHI,POR,1,34:31,7,20,.350,1,3,.333,2,2,1.000,0,4,4,6,0,0,2,3,17,8.0,+11,W ,+5
-13,2015-11-27,CHI,IND,1,31:15,4,16,.250,2,5,.400,0,0,,1,5,6,5,1,1,3,1,10,4.4,-19,L ,-12
-14,2015-11-30,CHI,SAS,1,34:08,5,17,.294,0,2,.000,1,2,.500,0,4,4,6,1,1,1,1,11,6.4,-5,W ,+3
-15,2015-12-02,CHI,DEN,1,37:00,3,17,.176,0,2,.000,6,8,.750,0,2,2,9,0,0,2,2,12,4.6,+9,W ,+9
-16,2015-12-05,CHI,CHO,1,34:14,8,17,.471,3,6,.500,0,1,.000,0,7,7,5,0,0,2,2,19,12.7,-11,L ,-6
-17,2015-12-07,CHI,PHO,1,34:12,7,18,.389,0,3,.000,0,0,,1,5,6,4,3,1,5,3,14,6.7,+2,L ,-2
-18,2015-12-09,CHI,BOS,1,36:30,5,11,.455,1,3,.333,1,4,.250,0,2,2,6,0,1,3,0,12,7.6,-3,L ,-5
-19,2015-12-10,CHI,LAC,1,27:32,5,11,.455,1,3,.333,0,0,,0,3,3,2,1,0,3,0,11,5.6,-3,W ,+3
-21,2015-12-12,CHI,NOP,1,28:43,4,10,.400,0,0,,1,2,.500,0,3,3,3,1,0,1,0,9,6.2,0,W ,+4
-22,2015-12-14,CHI,PHI,1,26:26,2,3,.667,0,0,,2,2,1.000,0,1,1,4,0,0,2,1,6,5.4,+5,W ,+19
-23,2015-12-16,CHI,MEM,1,33:06,9,19,.474,0,3,.000,1,3,.333,0,2,2,5,1,0,3,1,19,10.2,+10,W ,+13
-24,2015-12-18,CHI,DET,1,54:13,14,34,.412,1,3,.333,5,5,1.000,0,4,4,8,1,0,4,5,34,17.6,+5,L ,-3
-25,2015-12-19,CHI,NYK,1,21:02,3,10,.300,0,2,.000,0,1,.000,2,0,2,1,0,0,2,0,6,-0.1,-2,L ,-16
-26,2015-12-21,CHI,BRK,1,32:31,3,11,.273,1,3,.333,1,2,.500,1,3,4,5,2,0,3,1,8,4.8,-9,L ,-3
-27,2015-12-25,CHI,OKC,1,30:04,7,18,.389,0,1,.000,5,6,.833,1,3,4,1,0,0,4,6,19,4.7,+10,W ,+9
-28,2015-12-26,CHI,DAL,1,36:34,12,20,.600,0,1,.000,1,1,1.000,1,4,5,4,0,0,3,1,25,17.1,-5,L ,-7
-29,2015-12-28,CHI,TOR,1,28:48,7,16,.438,3,5,.600,3,4,.750,0,1,1,4,0,1,1,1,20,13.6,0,W ,+7
-30,2015-12-30,CHI,IND,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,W ,+2
-31,2016-01-01,CHI,NYK,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,W ,+27
-32,2016-01-03,CHI,TOR,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,W ,+2
-33,2016-01-05,CHI,MIL,1,34:32,8,17,.471,0,4,.000,0,0,,0,1,1,6,0,0,5,1,16,6.4,+15,W ,+11
-34,2016-01-07,CHI,BOS,1,34:27,9,16,.563,0,1,.000,0,0,,2,5,7,3,0,0,2,4,18,11.8,+6,W ,+9
-35,2016-01-09,CHI,ATL,1,35:29,5,15,.333,0,0,,7,8,.875,2,1,3,5,2,1,6,1,17,9.6,-9,L ,-15
-36,2016-01-11,CHI,WAS,1,31:03,8,13,.615,2,3,.667,5,5,1.000,0,0,0,1,0,1,4,0,23,14.5,-25,L ,-14
-37,2016-01-12,CHI,MIL,1,22:29,3,9,.333,1,3,.333,2,2,1.000,1,0,1,3,1,0,3,2,9,3.9,-9,L ,-5
-38,2016-01-14,CHI,PHI,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,W ,+4
-39,2016-01-15,CHI,DAL,1,33:22,8,18,.444,0,2,.000,2,2,1.000,1,3,4,2,2,0,1,1,18,12.2,+3,L ,-6
-40,2016-01-18,CHI,DET,1,27:26,9,17,.529,1,2,.500,1,1,1.000,0,1,1,4,0,0,1,0,20,13.8,-8,W ,+10
-42,2016-01-20,CHI,GSW,1,30:10,12,22,.545,0,2,.000,5,5,1.000,0,1,1,2,0,0,2,3,29,16.9,-10,L ,-31
-43,2016-01-22,CHI,BOS,1,36:08,10,21,.476,3,4,.750,4,4,1.000,2,5,7,3,0,0,4,2,27,16.5,-15,L ,-9
-44,2016-01-23,CHI,CLE,1,35:16,5,21,.238,0,1,.000,2,2,1.000,1,3,4,4,0,1,1,1,12,3.0,-1,W ,+13
-45,2016-01-25,CHI,MIA,1,13:01,2,6,.333,0,0,,0,0,,0,0,0,1,0,0,0,0,4,1.3,-2,L ,-5
-46,2016-01-28,CHI,LAL,1,28:42,7,12,.583,0,2,.000,2,2,1.000,0,7,7,5,1,0,1,2,16,15.2,+15,W ,+23
-47,2016-01-31,CHI,LAC,1,33:03,10,17,.588,0,0,,0,0,,0,5,5,4,0,0,3,2,20,12.6,-14,L ,-27
-48,2016-02-01,CHI,UTA,1,36:50,6,21,.286,1,4,.250,1,2,.500,1,2,3,4,1,1,3,3,14,2.9,-14,L ,-9
-49,2016-02-03,CHI,SAC,1,35:24,6,15,.400,0,1,.000,9,10,.900,2,4,6,9,2,0,7,1,21,16.0,+7,W ,+5
-50,2016-02-05,CHI,DEN,1,35:20,13,27,.481,0,3,.000,4,6,.667,2,7,9,8,1,0,2,1,30,23.2,-7,L ,-5
-51,2016-02-06,CHI,MIN,1,32:57,6,20,.300,0,3,.000,6,7,.857,3,2,5,10,1,0,3,3,18,12.5,-3,L ,-7
-52,2016-02-08,CHI,CHO,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,L ,-17
-53,2016-02-10,CHI,ATL,1,28:48,6,18,.333,2,2,1.000,0,0,,2,3,5,3,1,0,2,2,14,6.4,-14,L ,-23
-54,2016-02-18,CHI,CLE,1,30:21,11,19,.579,2,3,.667,4,4,1.000,0,7,7,2,1,0,3,0,28,20.6,-15,L ,-11
-55,2016-02-19,CHI,TOR,1,34:41,12,20,.600,1,2,.500,1,2,.500,2,1,3,6,0,0,4,1,26,17.9,+4,W ,+10
-56,2016-02-21,CHI,LAL,1,30:49,8,15,.533,0,1,.000,8,8,1.000,3,4,7,6,0,0,2,2,24,21.4,-4,W ,+11
-57,2016-02-24,CHI,WAS,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,W ,+5
-58,2016-02-26,CHI,ATL,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,L ,-15
-59,2016-02-27,CHI,POR,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,L ,-8
-60,2016-03-01,CHI,MIA,1,24:10,6,11,.545,1,1,1.000,4,7,.571,0,0,0,3,1,0,3,0,17,10.6,-19,L ,-18
-61,2016-03-02,CHI,ORL,1,24:51,7,14,.500,0,0,,2,2,1.000,0,4,4,6,1,0,2,0,16,13.4,-14,L ,-13
-63,2016-03-05,CHI,HOU,1,29:15,6,10,.600,2,4,.500,3,4,.750,0,3,3,9,0,1,6,1,17,13.5,+6,W ,+8
-64,2016-03-07,CHI,MIL,1,38:56,9,18,.500,2,6,.333,2,2,1.000,1,0,1,7,1,0,6,1,22,13.2,+20,W ,+10
-65,2016-03-10,CHI,SAS,1,35:47,9,21,.429,1,2,.500,2,2,1.000,2,1,3,6,0,0,2,0,21,13.8,-1,L ,-8
-66,2016-03-11,CHI,MIA,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,L ,-22
-67,2016-03-14,CHI,TOR,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,W ,+2
-68,2016-03-16,CHI,WAS,1,29:04,7,19,.368,0,1,.000,2,2,1.000,0,3,3,4,2,0,4,0,16,7.2,-5,L ,-21
-69,2016-03-17,CHI,BRK,1,29:07,5,12,.417,1,1,1.000,1,1,1.000,0,3,3,5,1,0,1,1,12,9.6,-3,W ,+16
-70,2016-03-19,CHI,UTA,1,30:38,10,15,.667,2,2,1.000,0,0,,1,2,3,4,0,0,3,2,22,15.8,+5,W ,+7
-71,2016-03-21,CHI,SAC,1,33:04,9,15,.600,0,1,.000,0,2,.000,0,5,5,4,1,0,1,0,18,14.6,+18,W ,+7
-72,2016-03-23,CHI,NYK,1,31:36,9,17,.529,2,5,.400,1,1,1.000,0,3,3,4,0,0,0,1,21,16.0,-4,L ,-8
-73,2016-03-24,CHI,NYK,1,38:58,13,24,.542,1,4,.250,3,4,.750,0,2,2,3,2,0,1,1,30,21.3,-6,L ,-12
-74,2016-03-26,CHI,ORL,1,29:26,4,14,.286,1,4,.250,0,2,.000,2,1,3,2,0,0,4,0,9,-0.9,-13,L ,-22
-75,2016-03-28,CHI,ATL,1,34:03,8,25,.320,2,4,.500,2,2,1.000,2,3,5,5,2,1,1,1,20,12.8,-1,L ,-2
-76,2016-03-29,CHI,IND,1,28:52,4,15,.267,0,2,.000,0,0,,0,1,1,4,0,0,0,2,8,1.4,-13,W ,+2
-77,2016-03-31,CHI,HOU,1,11:57,0,0,,0,0,,0,0,,0,0,0,2,0,0,3,0,0,-1.6,-1,W ,+3
-78,2016-04-02,CHI,DET,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,L ,-4
-79,2016-04-03,CHI,MIL,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,W ,+4
-80,2016-04-05,CHI,MEM,1,35:13,5,15,.333,0,3,.000,2,2,1.000,2,3,5,8,1,0,5,1,12,7.0,-6,L ,-16
-81,2016-04-07,CHI,MIA,1,35:42,7,16,.438,0,0,,3,4,.750,1,2,3,3,2,0,2,0,17,11.6,+3,L ,-8
-82,2016-04-09,CHI,CLE,1,32:05,5,14,.357,0,2,.000,0,0,,0,2,2,3,0,0,2,0,10,2.9,-20,W ,+3
-84,2016-04-11,CHI,NOP,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,W ,+5
-85,2016-04-13,CHI,PHI,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,W ,+10
+,Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+0,1,1,2015-10-27,27-023,CHI,,CLE,W (+2),1,32:28,8,22,.364,0,2,.000,2,4,.500,0,1,1,5,1,0,2,0,18,7.8,-1
+1,2,2,2015-10-28,27-024,CHI,@,BRK,W (+15),1,29:26,5,11,.455,0,1,.000,5,5,1.000,0,2,2,3,1,0,2,2,15,10.2,+18
+2,3,3,2015-10-30,27-026,CHI,@,DET,L (-4),1,34:29,4,13,.308,0,1,.000,0,0,,0,2,2,6,0,0,5,3,8,-0.9,-14
+3,4,4,2015-11-01,27-028,CHI,,ORL,W (+5),1,32:19,2,8,.250,0,1,.000,2,2,1.000,0,7,7,8,0,0,3,1,6,5.5,+6
+4,5,5,2015-11-03,27-030,CHI,@,CHO,L (-25),1,23:52,2,8,.250,0,3,.000,0,0,,0,2,2,5,0,0,2,0,4,1.3,-16
+5,6,6,2015-11-05,27-032,CHI,,OKC,W (+6),1,37:29,12,25,.480,0,1,.000,5,6,.833,1,4,5,6,0,0,2,1,29,19.6,+4
+6,7,7,2015-11-07,27-034,CHI,,MIN,L (-9),1,38:07,3,13,.231,1,4,.250,4,5,.800,0,3,3,5,1,0,5,1,11,2.7,-21
+7,8,8,2015-11-09,27-036,CHI,@,PHI,W (+23),1,27:33,6,14,.429,0,3,.000,0,1,.000,2,3,5,8,0,1,2,0,12,10.8,+14
+8,9,9,2015-11-13,27-040,CHI,,CHO,W (+5),1,34:39,4,14,.286,0,2,.000,2,2,1.000,0,1,1,8,1,1,3,2,10,5.6,-2
+9,10,10,2015-11-16,27-043,CHI,,IND,W (+1),1,33:13,9,18,.500,2,2,1.000,3,4,.750,1,1,2,6,2,1,0,3,23,20.3,+5
+10,11,,2015-11-18,27-045,CHI,@,PHO,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+11,12,,2015-11-20,27-047,CHI,@,GSW,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+12,13,11,2015-11-24,27-051,CHI,@,POR,W (+5),1,34:31,7,20,.350,1,3,.333,2,2,1.000,0,4,4,6,0,0,2,3,17,8.0,+11
+13,14,12,2015-11-27,27-054,CHI,@,IND,L (-12),1,31:15,4,16,.250,2,5,.400,0,0,,1,5,6,5,1,1,3,1,10,4.4,-19
+14,15,13,2015-11-30,27-057,CHI,,SAS,W (+3),1,34:08,5,17,.294,0,2,.000,1,2,.500,0,4,4,6,1,1,1,1,11,6.4,-5
+15,16,14,2015-12-02,27-059,CHI,,DEN,W (+9),1,37:00,3,17,.176,0,2,.000,6,8,.750,0,2,2,9,0,0,2,2,12,4.6,+9
+16,17,15,2015-12-05,27-062,CHI,,CHO,L (-6),1,34:14,8,17,.471,3,6,.500,0,1,.000,0,7,7,5,0,0,2,2,19,12.7,-11
+17,18,16,2015-12-07,27-064,CHI,,PHO,L (-2),1,34:12,7,18,.389,0,3,.000,0,0,,1,5,6,4,3,1,5,3,14,6.7,+2
+18,19,17,2015-12-09,27-066,CHI,@,BOS,L (-5),1,36:30,5,11,.455,1,3,.333,1,4,.250,0,2,2,6,0,1,3,0,12,7.6,-3
+19,20,18,2015-12-10,27-067,CHI,,LAC,W (+3),1,27:32,5,11,.455,1,3,.333,0,0,,0,3,3,2,1,0,3,0,11,5.6,-3
+20,Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+21,21,19,2015-12-12,27-069,CHI,,NOP,W (+4),1,28:43,4,10,.400,0,0,,1,2,.500,0,3,3,3,1,0,1,0,9,6.2,0
+22,22,20,2015-12-14,27-071,CHI,,PHI,W (+19),1,26:26,2,3,.667,0,0,,2,2,1.000,0,1,1,4,0,0,2,1,6,5.4,+5
+23,23,21,2015-12-16,27-073,CHI,,MEM,W (+13),1,33:06,9,19,.474,0,3,.000,1,3,.333,0,2,2,5,1,0,3,1,19,10.2,+10
+24,24,22,2015-12-18,27-075,CHI,,DET,L (-3),1,54:13,14,34,.412,1,3,.333,5,5,1.000,0,4,4,8,1,0,4,5,34,17.6,+5
+25,25,23,2015-12-19,27-076,CHI,@,NYK,L (-16),1,21:02,3,10,.300,0,2,.000,0,1,.000,2,0,2,1,0,0,2,0,6,-0.1,-2
+26,26,24,2015-12-21,27-078,CHI,,BRK,L (-3),1,32:31,3,11,.273,1,3,.333,1,2,.500,1,3,4,5,2,0,3,1,8,4.8,-9
+27,27,25,2015-12-25,27-082,CHI,@,OKC,W (+9),1,30:04,7,18,.389,0,1,.000,5,6,.833,1,3,4,1,0,0,4,6,19,4.7,+10
+28,28,26,2015-12-26,27-083,CHI,@,DAL,L (-7),1,36:34,12,20,.600,0,1,.000,1,1,1.000,1,4,5,4,0,0,3,1,25,17.1,-5
+29,29,27,2015-12-28,27-085,CHI,,TOR,W (+7),1,28:48,7,16,.438,3,5,.600,3,4,.750,0,1,1,4,0,1,1,1,20,13.6,0
+30,30,,2015-12-30,27-087,CHI,,IND,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+31,31,,2016-01-01,27-089,CHI,,NYK,W (+27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+32,32,,2016-01-03,27-091,CHI,@,TOR,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+33,33,28,2016-01-05,27-093,CHI,,MIL,W (+11),1,34:32,8,17,.471,0,4,.000,0,0,,0,1,1,6,0,0,5,1,16,6.4,+15
+34,34,29,2016-01-07,27-095,CHI,,BOS,W (+9),1,34:27,9,16,.563,0,1,.000,0,0,,2,5,7,3,0,0,2,4,18,11.8,+6
+35,35,30,2016-01-09,27-097,CHI,@,ATL,L (-15),1,35:29,5,15,.333,0,0,,7,8,.875,2,1,3,5,2,1,6,1,17,9.6,-9
+36,36,31,2016-01-11,27-099,CHI,,WAS,L (-14),1,31:03,8,13,.615,2,3,.667,5,5,1.000,0,0,0,1,0,1,4,0,23,14.5,-25
+37,37,32,2016-01-12,27-100,CHI,@,MIL,L (-5),1,22:29,3,9,.333,1,3,.333,2,2,1.000,1,0,1,3,1,0,3,2,9,3.9,-9
+38,38,,2016-01-14,27-102,CHI,@,PHI,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+39,39,33,2016-01-15,27-103,CHI,,DAL,L (-6),1,33:22,8,18,.444,0,2,.000,2,2,1.000,1,3,4,2,2,0,1,1,18,12.2,+3
+40,40,34,2016-01-18,27-106,CHI,@,DET,W (+10),1,27:26,9,17,.529,1,2,.500,1,1,1.000,0,1,1,4,0,0,1,0,20,13.8,-8
+41,Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+42,41,35,2016-01-20,27-108,CHI,,GSW,L (-31),1,30:10,12,22,.545,0,2,.000,5,5,1.000,0,1,1,2,0,0,2,3,29,16.9,-10
+43,42,36,2016-01-22,27-110,CHI,@,BOS,L (-9),1,36:08,10,21,.476,3,4,.750,4,4,1.000,2,5,7,3,0,0,4,2,27,16.5,-15
+44,43,37,2016-01-23,27-111,CHI,@,CLE,W (+13),1,35:16,5,21,.238,0,1,.000,2,2,1.000,1,3,4,4,0,1,1,1,12,3.0,-1
+45,44,38,2016-01-25,27-113,CHI,,MIA,L (-5),1,13:01,2,6,.333,0,0,,0,0,,0,0,0,1,0,0,0,0,4,1.3,-2
+46,45,39,2016-01-28,27-116,CHI,@,LAL,W (+23),1,28:42,7,12,.583,0,2,.000,2,2,1.000,0,7,7,5,1,0,1,2,16,15.2,+15
+47,46,40,2016-01-31,27-119,CHI,@,LAC,L (-27),1,33:03,10,17,.588,0,0,,0,0,,0,5,5,4,0,0,3,2,20,12.6,-14
+48,47,41,2016-02-01,27-120,CHI,@,UTA,L (-9),1,36:50,6,21,.286,1,4,.250,1,2,.500,1,2,3,4,1,1,3,3,14,2.9,-14
+49,48,42,2016-02-03,27-122,CHI,@,SAC,W (+5),1,35:24,6,15,.400,0,1,.000,9,10,.900,2,4,6,9,2,0,7,1,21,16.0,+7
+50,49,43,2016-02-05,27-124,CHI,@,DEN,L (-5),1,35:20,13,27,.481,0,3,.000,4,6,.667,2,7,9,8,1,0,2,1,30,23.2,-7
+51,50,44,2016-02-06,27-125,CHI,@,MIN,L (-7),1,32:57,6,20,.300,0,3,.000,6,7,.857,3,2,5,10,1,0,3,3,18,12.5,-3
+52,51,,2016-02-08,27-127,CHI,@,CHO,L (-17),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+53,52,45,2016-02-10,27-129,CHI,,ATL,L (-23),1,28:48,6,18,.333,2,2,1.000,0,0,,2,3,5,3,1,0,2,2,14,6.4,-14
+54,53,46,2016-02-18,27-137,CHI,@,CLE,L (-11),1,30:21,11,19,.579,2,3,.667,4,4,1.000,0,7,7,2,1,0,3,0,28,20.6,-15
+55,54,47,2016-02-19,27-138,CHI,,TOR,W (+10),1,34:41,12,20,.600,1,2,.500,1,2,.500,2,1,3,6,0,0,4,1,26,17.9,+4
+56,55,48,2016-02-21,27-140,CHI,,LAL,W (+11),1,30:49,8,15,.533,0,1,.000,8,8,1.000,3,4,7,6,0,0,2,2,24,21.4,-4
+57,56,,2016-02-24,27-143,CHI,,WAS,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+58,57,,2016-02-26,27-145,CHI,@,ATL,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+59,58,,2016-02-27,27-146,CHI,,POR,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+60,59,49,2016-03-01,27-149,CHI,@,MIA,L (-18),1,24:10,6,11,.545,1,1,1.000,4,7,.571,0,0,0,3,1,0,3,0,17,10.6,-19
+61,60,50,2016-03-02,27-150,CHI,@,ORL,L (-13),1,24:51,7,14,.500,0,0,,2,2,1.000,0,4,4,6,1,0,2,0,16,13.4,-14
+62,Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+63,61,51,2016-03-05,27-153,CHI,,HOU,W (+8),1,29:15,6,10,.600,2,4,.500,3,4,.750,0,3,3,9,0,1,6,1,17,13.5,+6
+64,62,52,2016-03-07,27-155,CHI,,MIL,W (+10),1,38:56,9,18,.500,2,6,.333,2,2,1.000,1,0,1,7,1,0,6,1,22,13.2,+20
+65,63,53,2016-03-10,27-158,CHI,@,SAS,L (-8),1,35:47,9,21,.429,1,2,.500,2,2,1.000,2,1,3,6,0,0,2,0,21,13.8,-1
+66,64,,2016-03-11,27-159,CHI,,MIA,L (-22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+67,65,,2016-03-14,27-162,CHI,@,TOR,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+68,66,54,2016-03-16,27-164,CHI,@,WAS,L (-21),1,29:04,7,19,.368,0,1,.000,2,2,1.000,0,3,3,4,2,0,4,0,16,7.2,-5
+69,67,55,2016-03-17,27-165,CHI,,BRK,W (+16),1,29:07,5,12,.417,1,1,1.000,1,1,1.000,0,3,3,5,1,0,1,1,12,9.6,-3
+70,68,56,2016-03-19,27-167,CHI,,UTA,W (+7),1,30:38,10,15,.667,2,2,1.000,0,0,,1,2,3,4,0,0,3,2,22,15.8,+5
+71,69,57,2016-03-21,27-169,CHI,,SAC,W (+7),1,33:04,9,15,.600,0,1,.000,0,2,.000,0,5,5,4,1,0,1,0,18,14.6,+18
+72,70,58,2016-03-23,27-171,CHI,,NYK,L (-8),1,31:36,9,17,.529,2,5,.400,1,1,1.000,0,3,3,4,0,0,0,1,21,16.0,-4
+73,71,59,2016-03-24,27-172,CHI,@,NYK,L (-12),1,38:58,13,24,.542,1,4,.250,3,4,.750,0,2,2,3,2,0,1,1,30,21.3,-6
+74,72,60,2016-03-26,27-174,CHI,@,ORL,L (-22),1,29:26,4,14,.286,1,4,.250,0,2,.000,2,1,3,2,0,0,4,0,9,-0.9,-13
+75,73,61,2016-03-28,27-176,CHI,,ATL,L (-2),1,34:03,8,25,.320,2,4,.500,2,2,1.000,2,3,5,5,2,1,1,1,20,12.8,-1
+76,74,62,2016-03-29,27-177,CHI,@,IND,W (+2),1,28:52,4,15,.267,0,2,.000,0,0,,0,1,1,4,0,0,0,2,8,1.4,-13
+77,75,63,2016-03-31,27-179,CHI,@,HOU,W (+3),1,11:57,0,0,,0,0,,0,0,,0,0,0,2,0,0,3,0,0,-1.6,-1
+78,76,,2016-04-02,27-181,CHI,,DET,L (-4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+79,77,,2016-04-03,27-182,CHI,@,MIL,W (+4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+80,78,64,2016-04-05,27-184,CHI,@,MEM,L (-16),1,35:13,5,15,.333,0,3,.000,2,2,1.000,2,3,5,8,1,0,5,1,12,7.0,-6
+81,79,65,2016-04-07,27-186,CHI,@,MIA,L (-8),1,35:42,7,16,.438,0,0,,3,4,.750,1,2,3,3,2,0,2,0,17,11.6,+3
+82,80,66,2016-04-09,27-188,CHI,,CLE,W (+3),1,32:05,5,14,.357,0,2,.000,0,0,,0,2,2,3,0,0,2,0,10,2.9,-20
+83,Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+84,81,,2016-04-11,27-190,CHI,@,NOP,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+85,82,,2016-04-13,27-192,CHI,,PHI,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
