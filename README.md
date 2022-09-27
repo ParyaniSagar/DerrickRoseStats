@@ -16,5 +16,3 @@ https://public.tableau.com/app/profile/sagar.paryani/viz/DerrickRoseCareerStats/
 1. Average points scored by DR in games
 2. What is his Free throw, Field Goal, 3 pointer percentage
 3. Is he a foul  player? - fouls
-4. 
-
