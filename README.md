@@ -2,7 +2,7 @@
 
 ![Derrick Rose](3_Material/DerrickRose.jpg)
 
-# Description & Proejct Outcome
+# Description & Project Outcome
   
 In this Project, I will be analyzing the Career Stats of Derrick Rose, and will answer few of the requirements/questions listed below.
 
