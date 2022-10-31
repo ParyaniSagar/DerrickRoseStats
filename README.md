@@ -35,4 +35,4 @@ I will be using Pandas library for manipulation of data Tableau for visualizatio
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]("https://public.tableau.com/app/profile/sagar.paryani")
 
-[![github]("https://github.com/ParyaniSagar")]
+[![github]("https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white")]("https://github.com/ParyaniSagar")
