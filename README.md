@@ -23,33 +23,16 @@ I will be using Pandas library for manipulation of data Tableau for visualizatio
 
   
   
-
-# Libraries Used
-
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png)
-
-![Logo](https://matplotlib.org/_static/logo2_compressed.svg)
-
-![Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png)
-
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png)
-
-![Logo](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/wordcloud.jpeg?raw=true)
-
-![Logo](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/raw/master/hqdefault.jpg)
-
    
 
 # 🔗 Links
 
   
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]("")
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]("https://paryanisagar.github.io/SagarParyani.github.io/")
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isagarparyani/)
 
-[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]("")
+[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]("https://public.tableau.com/app/profile/sagar.paryani")
 
-[![github]("")]
+[![github]("https://github.com/ParyaniSagar")]
