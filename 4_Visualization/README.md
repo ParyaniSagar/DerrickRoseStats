@@ -16,4 +16,4 @@
 
 ## LINK
 
-[Click on Link to view the Tableau Dashboard]("https://public.tableau.com/app/profile/sagar.paryani/viz/DerrickRoseCareerStats/DB2?publish=yes")
+[Click on Link to view the Tableau Dashboard](https://public.tableau.com/app/profile/sagar.paryani/viz/DerrickRoseCareerStats/DB2?publish=yes)
